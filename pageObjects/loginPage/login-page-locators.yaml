@@ -1,0 +1,1 @@
+username_input: '//android.widget.EditText[@resource-id="com.example.myapplication:id/username"]'

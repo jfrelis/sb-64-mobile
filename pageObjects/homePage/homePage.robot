@@ -1,5 +1,5 @@
 *** Settings ***
-Library        AppiumLibrary
+Documentation        Home page keywords related
 
 *** Keywords ***
 Verify Home Screen Appears
